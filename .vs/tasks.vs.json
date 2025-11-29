@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-clinica_app.csproj",
+      "appliesTo": "clinica_app.csproj.user",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-clinica_app.csproj",
+      "appliesTo": "clinica_app.csproj.user",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-clinica_app.csproj",
+      "appliesTo": "clinica_app.csproj.user",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-FormAgendamento.Designer",
+      "appliesTo": "FormAgendamento.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}
